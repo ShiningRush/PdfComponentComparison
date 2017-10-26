@@ -1,4 +1,5 @@
 # PdfComponentComparition
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ShiningRush/PdfComponentComparition/blob/master/LICENSE)
 
 [中文介绍请点击这里](https://github.com/ShiningRush/PdfComponentComparition/blob/master/README.zh-cn.md)
 
