@@ -9,9 +9,12 @@ Even this demo was just implement three components,but the project is designed l
 
 ## Simple Usage Of Demo
 
-**UseComponent** this list is used for selecting component
-**InputFileDir** select the files located directory(not path) which you need to handle
-**OutputFIleDir** select the directory you hope to output result
-**ExecuteTimes** this is used for testing component's performance, meant excute times in total.
+`UseComponent` this list is used for selecting component
 
-i think the blow button is easy to understand, just explain the button **AllRun** is meant excute all action.
+`InputFileDir` select the files located directory(not path) which you need to handle
+
+`OutputFIleDir` select the directory you hope to output result
+
+`ExecuteTimes` this is used for testing component's performance, meant excute times in total.
+
+i think the blow button is easy to understand, just explain the button `AllRun` is meant excute all action.
