@@ -60,28 +60,28 @@
             // cmb_Component
             // 
             this.cmb_Component.FormattingEnabled = true;
-            this.cmb_Component.Location = new System.Drawing.Point(88, 23);
+            this.cmb_Component.Location = new System.Drawing.Point(108, 30);
             this.cmb_Component.Name = "cmb_Component";
             this.cmb_Component.Size = new System.Drawing.Size(200, 20);
             this.cmb_Component.TabIndex = 1;
             // 
             // txt_PdfFilesDir
             // 
-            this.txt_PdfFilesDir.Location = new System.Drawing.Point(86, 58);
+            this.txt_PdfFilesDir.Location = new System.Drawing.Point(107, 58);
             this.txt_PdfFilesDir.Name = "txt_PdfFilesDir";
             this.txt_PdfFilesDir.Size = new System.Drawing.Size(273, 21);
             this.txt_PdfFilesDir.TabIndex = 2;
             // 
             // txt_OutputDir
             // 
-            this.txt_OutputDir.Location = new System.Drawing.Point(86, 85);
+            this.txt_OutputDir.Location = new System.Drawing.Point(107, 85);
             this.txt_OutputDir.Name = "txt_OutputDir";
             this.txt_OutputDir.Size = new System.Drawing.Size(273, 21);
             this.txt_OutputDir.TabIndex = 3;
             // 
             // btn_SelectPdfDir
             // 
-            this.btn_SelectPdfDir.Location = new System.Drawing.Point(366, 55);
+            this.btn_SelectPdfDir.Location = new System.Drawing.Point(387, 55);
             this.btn_SelectPdfDir.Name = "btn_SelectPdfDir";
             this.btn_SelectPdfDir.Size = new System.Drawing.Size(75, 23);
             this.btn_SelectPdfDir.TabIndex = 4;
@@ -91,7 +91,7 @@
             // 
             // btn_SelectOutputDir
             // 
-            this.btn_SelectOutputDir.Location = new System.Drawing.Point(366, 82);
+            this.btn_SelectOutputDir.Location = new System.Drawing.Point(387, 82);
             this.btn_SelectOutputDir.Name = "btn_SelectOutputDir";
             this.btn_SelectOutputDir.Size = new System.Drawing.Size(75, 23);
             this.btn_SelectOutputDir.TabIndex = 5;
@@ -102,7 +102,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(3, 66);
+            this.label1.Location = new System.Drawing.Point(24, 66);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(77, 12);
             this.label1.TabIndex = 6;
@@ -111,7 +111,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(5, 26);
+            this.label2.Location = new System.Drawing.Point(25, 33);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(77, 12);
             this.label2.TabIndex = 6;
@@ -120,11 +120,11 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(3, 85);
+            this.label3.Location = new System.Drawing.Point(18, 88);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(77, 12);
+            this.label3.Size = new System.Drawing.Size(83, 12);
             this.label3.TabIndex = 6;
-            this.label3.Text = "OuputFileDir";
+            this.label3.Text = "OutputFileDir";
             // 
             // btn_ToTxt
             // 
@@ -168,9 +168,9 @@
             // 
             // btn_AllRun
             // 
-            this.btn_AllRun.Location = new System.Drawing.Point(22, 176);
+            this.btn_AllRun.Location = new System.Drawing.Point(157, 176);
             this.btn_AllRun.Name = "btn_AllRun";
-            this.btn_AllRun.Size = new System.Drawing.Size(75, 23);
+            this.btn_AllRun.Size = new System.Drawing.Size(128, 23);
             this.btn_AllRun.TabIndex = 0;
             this.btn_AllRun.Text = "AllRun";
             this.btn_AllRun.UseVisualStyleBackColor = true;
@@ -180,7 +180,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.label4.Location = new System.Drawing.Point(3, 115);
+            this.label4.Location = new System.Drawing.Point(24, 115);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(77, 12);
             this.label4.TabIndex = 6;
@@ -188,7 +188,7 @@
             // 
             // txt_ExecuteTimes
             // 
-            this.txt_ExecuteTimes.Location = new System.Drawing.Point(86, 112);
+            this.txt_ExecuteTimes.Location = new System.Drawing.Point(107, 112);
             this.txt_ExecuteTimes.Name = "txt_ExecuteTimes";
             this.txt_ExecuteTimes.Size = new System.Drawing.Size(41, 21);
             this.txt_ExecuteTimes.TabIndex = 3;
@@ -197,7 +197,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(462, 212);
+            this.ClientSize = new System.Drawing.Size(488, 211);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
