@@ -14,8 +14,6 @@ namespace PdfComponentDemo
         [STAThread]
         static void Main()
         {
-            
-
             //设置应用程序处理异常方式：ThreadException处理
             Application.SetUnhandledExceptionMode(UnhandledExceptionMode.CatchException);
             //处理UI线程异常
