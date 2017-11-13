@@ -70,7 +70,7 @@ namespace PdfComponent.Lib.Components
         {
             using (var pdfDocument = new PdfDocument(new PdfReader(absoluteFilePath)))
             {
-                for (var pageIndex = 1; pageIndex < pdfDocument.GetNumberOfPages(); pageIndex++)
+                for (var pageIndex = 1; pageIndex <= pdfDocument.GetNumberOfPages(); pageIndex++)
                 {
                     using (var fos = System.IO.File.OpenWrite(outputPath))
                     {
